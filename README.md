@@ -10,7 +10,7 @@ To submit, add your link to the table below:
 | Week 2        | `null` (do not edit)			|
 | Week 3        | https://irickman.github.io/blog/Hypoallergenic-Dogs/|
 | Week 4        | https://irickman.github.io/blog/Reusing-Custom-Python-Functions/     				|
-| Week 5        | **link**      				|
+| Week 5        |https://irickman.github.io/blog/Premier-League-Teams/|
 | Week 6        | **link**						|
 | Week 7        | **link**						|	
 | Week 8        | **link**						|
