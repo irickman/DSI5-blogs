@@ -11,7 +11,7 @@ To submit, add your link to the table below:
 | Week 3        | https://irickman.github.io/blog/Hypoallergenic-Dogs/|
 | Week 4        | https://irickman.github.io/blog/Reusing-Custom-Python-Functions/     				|
 | Week 5        |https://irickman.github.io/blog/Premier-League-Teams/|
-| Week 6        | **link**						|
+| Week 6        | http://irarickman.com/blog/Premier-League-Teams-Part-I/						|
 | Week 7        | **link**						|	
 | Week 8        | **link**						|
 | Week 9        | **link**						|
