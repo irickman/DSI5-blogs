@@ -12,11 +12,11 @@ To submit, add your link to the table below:
 | Week 4        | https://irickman.github.io/blog/Reusing-Custom-Python-Functions/     				|
 | Week 5        |https://irickman.github.io/blog/Premier-League-Teams/|
 | Week 6        | http://irarickman.com/blog/Premier-League-Teams-Part-I/						|
-| Week 7        | **link**						|	
-| Week 8        | **link**						|
-| Week 9        | **link**						|
-| Week 10       | **link**						|
-| Week 11       | **link**						|
+| Week 7        | http://irarickman.com/blog/Premier-League-Teams-Part-II/						|	
+| Week 8        | http://irarickman.com/blog/Premier-League-Teams-Part-III/|
+| Week 9        | http://irarickman.com/blog/Great-British-Bake-Off/|
+| Week 10       | http://irarickman.com/blog/Capital-Bikeshare-Trends-in-2016/						|
+| Week 11       | http://irarickman.com/blog/Bikeshare-Reblancing-Viz/						|
 | Week 12       | **link**						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
