@@ -17,7 +17,7 @@ To submit, add your link to the table below:
 | Week 9        | http://irarickman.com/blog/Great-British-Bake-Off/|
 | Week 10       | http://irarickman.com/blog/Capital-Bikeshare-Trends-in-2016/						|
 | Week 11       | http://irarickman.com/blog/Bikeshare-Reblancing-Viz/						|
-| Week 12       | **link**						|
+| Week 12       | http://irarickman.com/blog/Optimizing-Bikeshare-Rebalancing/		|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
